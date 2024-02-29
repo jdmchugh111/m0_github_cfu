@@ -1,0 +1,1 @@
+The commands I know are git init, git status, git add, git commit, git push, and git remote remove origin
